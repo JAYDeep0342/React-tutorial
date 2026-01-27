@@ -12,3 +12,15 @@ width: 100%;
 body {
   background-color: hsl(0, 87%, 3%);
 }
+.card{
+background-color: #8d85b9;
+border-radius: 10px;
+margin: 20px;
+padding: 20px;
+}
+.nav{
+  background-color: #4b4276;
+  padding: 10px;
+  margin: 10px;
+  
+}
