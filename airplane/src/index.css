@@ -1,0 +1,14 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Helvetica neue';
+color: #ddd6d6;
+}
+html, body, #root {
+  height: 100%;
+width: 100%;
+}
+body {
+  background-color: hsl(0, 87%, 3%);
+}
