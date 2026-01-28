@@ -21,6 +21,6 @@ padding: 20px;
 .nav{
   background-color: #4b4276;
   padding: 10px;
-  margin: 10px;
-  
+  margin: 20px;
+  max-width: 100%;
 }
