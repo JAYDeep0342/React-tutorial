@@ -52,6 +52,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'helvetica neue';
+ 
 }
 html,
 body {
@@ -60,7 +61,7 @@ body {
 }
 
 .parent{
-  min-height: 100vh;
+ min-height: 100vh;
   width: 100%;
   background-color: #180a0a;
   padding: 30px;
