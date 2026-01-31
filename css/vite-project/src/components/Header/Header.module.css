@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: auto 20px;
+    background-color: #9b7582;  ;  
+    
+
+} 
+.btn {
+padding: auto;
+background-attachment: fixed;
+background-color: #dac9d1;
+font-style: italic;
+border-radius: 5px;
+margin: 5px;
+
+}
