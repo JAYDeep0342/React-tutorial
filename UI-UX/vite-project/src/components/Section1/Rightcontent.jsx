@@ -1,10 +1,12 @@
 import React from 'react';
-import 'remixicon/fonts/remixicon.css'
+import Rightcard from './Rightcard';
+
 const Rightcontent = () => {
     return (
-        <div  className='h-full w-2/3  bg-blue-400'>
-                
-        
+        <div  className='h-full overflow-x-auto w-2/3 flex flex-nowrap gap-10 p-6 rounded-4xl'>
+        <Rightcard/>
+        <Rightcard/>
+        <Rightcard/>
         </div>
 
     )
