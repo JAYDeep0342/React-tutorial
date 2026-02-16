@@ -1,0 +1,16 @@
+html
+body{
+  height: screen;
+}
+.nav{
+ display: flex;
+ background-color: aqua;
+ justify-content: space-between;
+ padding: 15px 25px;
+
+}
+.nav2{
+  display: flex;
+  gap: 30px;
+  font-style: initial;
+}
