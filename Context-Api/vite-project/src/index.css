@@ -9,6 +9,10 @@ body{
  padding: 15px 25px;
 
 }
+.light{
+  background-color: black;
+  
+}
 .nav2{
   display: flex;
   gap: 30px;
